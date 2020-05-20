@@ -1,0 +1,48 @@
+# Kelvin backend technical test
+
+## Context
+
+One of our clients is really interested in our carbon footprint calculation technology. To get an idea about what we could offer and to them, we've decided to built a simple prototype.
+
+## The app
+
+### What you will develop
+
+The app itself is quite simple. For a certain type and amount of expense, you can get its carbon footprint.
+
+#### 1. The frontend
+
+The front consists of one single page containing a form with two fields to select the expense type and type its amount.
+
+Once the form is validated, then you'll display get the carbon footprint of the expense.
+
+![Wireframe #1](wireframe-1.png)
+
+#### 2. The backend
+
+We want to show our client that we are able to make administration interfaces. We want him to be able to _list_, _add_, _edit_ and _delete_ any expense type and its associated carbon footprint ratio.
+For the sake of simplicity, this administration interface **doesn't have to be protected**.
+
+### Data
+
+We have these following data to put in the database. Ratio gives you the amount of CO2 for 1 euro spent in its associated expense type (ie: 1 euro spent for a regular flight ticket means a carbon footprint of 3600 grams).
+
+Expense type | Ratio (carbon footprint for 1 euro spent)
+------------ | -------------
+Low-cost flight tickets | 10000
+Regular flight tickets | 3600
+Electricity | 6000
+Legal advice | 160
+Car gas|3200
+...|...
+
+(Feel free to add more data, these rows are just a suggestion of pseudo-realistic data!)
+
+## Your mission
+
+Develop the dynamic parts using PHP and MySQL. You are free to use any tools that you'd like or none at all. Do your best!
+
+## What will be evaluated?
+
+* The technical choices you've made considering the context of this application
+* The quality of your code: syntax, algorithms, architecture, documentation,...
