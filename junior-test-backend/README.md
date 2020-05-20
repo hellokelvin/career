@@ -2,7 +2,7 @@
 
 ## Context
 
-One of our clients is really interested in our carbon footprint calculation technology. To get an idea about what we could offer and to them, we've decided to built a simple prototype.
+One of our clients is really interested in our carbon footprint calculation technology. To get an idea of what we could offer to them, we've decided to build a simple prototype.
 
 ## The app
 
@@ -12,9 +12,9 @@ The app itself is quite simple. For a certain type and amount of expense, you ca
 
 #### 1. The frontend
 
-The front consists of one single page containing a form with two fields to select the expense type and type its amount.
+The frontend part consists of one single page containing a form with two fields to select an expense type and type its amount.
 
-Once the form is validated, then you'll display get the carbon footprint of the expense.
+Once the form is validated, you'll display the carbon footprint of the expense.
 
 ![Wireframe #1](wireframe-1.png)
 
@@ -29,18 +29,18 @@ We have these following data to put in the database. Ratio gives you the amount 
 
 Expense type | Ratio (carbon footprint for 1 euro spent)
 ------------ | -------------
-Low-cost flight tickets | 10000
-Regular flight tickets | 3600
+Low-cost flight ticket | 10000
+Regular flight ticket | 3600
 Electricity | 6000
 Legal advice | 160
 Car gas|3200
 ...|...
 
-(Feel free to add more data, these rows are just a suggestion of pseudo-realistic data!)
+(Feel free to add more dummy data, these rows are just a suggestion of pseudo-realistic data!)
 
 ## Your mission
 
-Develop the dynamic parts using PHP and MySQL. You are free to use any tools that you'd like or none at all. Do your best!
+Develop the dynamic parts of the app using PHP and MySQL. You are free to use any tools that you'd like or none at all. Do your best!
 
 ## What will be evaluated?
 
