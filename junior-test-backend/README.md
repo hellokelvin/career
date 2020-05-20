@@ -14,14 +14,14 @@ The app itself is quite simple. For a certain type and amount of expense, you ca
 
 The frontend part consists of one single page containing a form with two fields to select an expense type and type its amount.
 
-Once the form is validated, you'll display the carbon footprint of the expense.
+When the form is validated, you display the carbon footprint of the expense.
 
 ![Wireframe #1](wireframe-1.png)
 
 #### 2. The backend
 
 We want to show our client that we are able to make administration interfaces. We want them to be able to _list_, _add_, _edit_ and _delete_ any expense type and its associated carbon footprint ratio.
-For the sake of simplicity, this administration interface **doesn't have to be protected**.
+For the sake of simplicity, this administration interface **does not have to be protected**.
 
 ### Data
 
