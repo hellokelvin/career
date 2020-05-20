@@ -20,12 +20,12 @@ Once the form is validated, you'll display the carbon footprint of the expense.
 
 #### 2. The backend
 
-We want to show our client that we are able to make administration interfaces. We want him to be able to _list_, _add_, _edit_ and _delete_ any expense type and its associated carbon footprint ratio.
+We want to show our client that we are able to make administration interfaces. We want them to be able to _list_, _add_, _edit_ and _delete_ any expense type and its associated carbon footprint ratio.
 For the sake of simplicity, this administration interface **doesn't have to be protected**.
 
 ### Data
 
-We have these following data to put in the database. Ratio gives you the amount of CO2 for 1 euro spent in its associated expense type (ie: 1 euro spent for a regular flight ticket means a carbon footprint of 3600 grams).
+We have these following data to put into the database. Ratio gives you the amount of CO2 for 1 euro spent in its associated expense type (ie: 1 euro spent for a regular flight ticket means a carbon footprint of 3600 grams).
 
 Expense type | Ratio (carbon footprint for 1 euro spent)
 ------------ | -------------
@@ -44,5 +44,5 @@ Develop the dynamic parts of the app using PHP and MySQL. You are free to use an
 
 ## What will be evaluated?
 
-* The technical choices you've made considering the context of this application
+* The technical choices you have made considering the context of this application
 * The quality of your code: syntax, algorithms, architecture, documentation,...
