@@ -1,5 +1,7 @@
 # Kelvin backend technical test
 
+> **Important**: if you haven't been in touch with one of our recruiters yet, you can still make this test and say hi to jobs@kelvin.eco
+
 ## Context
 
 One of our clients is really interested in our carbon footprint calculation technology. To get an idea of what we could offer to them, we've decided to build a simple prototype.

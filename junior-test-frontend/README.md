@@ -1,5 +1,7 @@
 # Kelvin frontend technical test
 
+> **Important**: if you haven't been in touch with one of our recruiters yet, you can still make this test and say hi to jobs@kelvin.eco
+
 ## Context
 
 We would like to work on a new version of Kelvin app and your goal is to make an interactive prototype of what it would look like.
