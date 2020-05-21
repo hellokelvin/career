@@ -34,4 +34,5 @@ The app is quite simple and consists of three screens like below:
 ## Graphical elements
 
 * Graphics are available in this repo
+* The font used is Montserrat
 * The animation is available here: <https://lottiefiles.com/21328-wind-mill>
