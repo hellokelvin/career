@@ -27,9 +27,9 @@ For the sake of simplicity, this administration interface **does not have to be 
 
 ### Data
 
-We have these following data to put into the database. Ratio gives you the amount of CO2 for 1 euro spent in its associated expense type (ie: 1 euro spent for a regular flight ticket means a carbon footprint of 3600 grams).
+We have these following data to put into the database. Ratio gives you the amount of CO2 per euro spent in its associated expense type (ie: 1 euro spent for a regular flight ticket means a carbon footprint of 3600 grams).
 
-Expense type | Ratio (carbon footprint for 1 euro spent)
+Expense type | Ratio (carbon footprint per Euro spent)
 ------------ | -------------
 Low-cost flight ticket | 10000
 Regular flight ticket | 3600
