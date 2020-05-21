@@ -20,7 +20,7 @@ The app is quite simple and consists of three screens like below:
 
 * As long as the user is not "registered", the app should display screen 1 & 2.
 * If the user is "registered", the app should display screens 1 & 3.
-* The button "Changer le monde" must open the website hellokelvin.com in the browser.
+* The button "Change the world" must open the website hellokelvin.com in the browser.
 * The app should display properly on phones with a resolution >= to iPhone 8.
 
 ## Some hints
