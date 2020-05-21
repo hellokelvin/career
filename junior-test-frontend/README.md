@@ -30,5 +30,6 @@ The app is quite simple and consists of three screens like below:
 * Feel free to use any dependency
 
 ## Graphical elements
-- Graphics are available in this repo
-- The animation is available here: https://lottiefiles.com/4800-weather-partly-cloudy
+
+* Graphics are available in this repo
+* The animation is available here: <https://lottiefiles.com/21328-wind-mill>
