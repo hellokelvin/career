@@ -1,6 +1,6 @@
 # Kelvin backend technical test
 
-> **Important**: if you haven't been in touch with one of our recruiters yet, you can still make this test and say hi to jobs@kelvin.eco
+> **Important**: if you haven't been in touch with one of our recruiters yet, you can still take this test and say hi to jobs@kelvin.eco
 
 ## Context
 
